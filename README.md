@@ -1,4 +1,4 @@
-# Bank-Implementation-Final
+# Savings and Interest
 
 PURPOSE: Implmement the necessary systems to simulate transactions on a savings account that can
 process interest utilizing a combination of Classes, Methods and interfaces. (MAY BE NON-FUNCTIONAL)
