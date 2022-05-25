@@ -1,0 +1,46 @@
+Account# Balance
+101885 200.23
+400231 602.43
+908134 7773.45
+
+ERROR: Entered an Invalid Value
+The Given j Is not a Valid Character
+
+Transaction: Balance
+7773.45
+
+Error: The Given Account not Found in the Database -1
+Transaction: Balance
+Error: The Given Account not Found in the Database 666666
+
+Transaction: Deposit
+Pre-Trans Balance: 200.23
+Amount: 50.45
+Post-Trans Balance: 250.68
+
+Transaction: Deposit
+Error:Negative Value Entered
+
+Transaction: Deposit
+Pre-Trans Balance: 7773.45
+Amount: 200.1
+Post-Trans Balance: 7573.34
+
+Error: Insufficient Funds in Given Account 908134
+
+Transaction: Deposit
+Error:Negative Value Entered
+
+Pre-Trans Balance: 250.68
+Interest: 0.12
+Creditied: 30.08
+Post-Trans Balance: 280.7616
+
+Error: The Given Account not Found in the Database -1
+Transaction: Interest
+Error: The Given Account not Found in the Database 555555
+
+Account# Balance
+101885 280.76
+400231 602.43
+908134 7573.35
